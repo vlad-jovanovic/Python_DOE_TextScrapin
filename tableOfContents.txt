@@ -1,0 +1,197 @@
+PROGRAM AREA OVERVIEW: OFFICE OF CYBERSECURITY, ENERGY SECURITY, AND EMERGENCY RESPONSE....................................................................................................... 12
+1. ENERGY SYSTEMS CYBERSECURITY ....................................................................................................... 12
+a. Actionable Cyber Intelligence................................................................................................................... 13
+PROGRAM AREA OVERVIEW: OFFICE OF DEFENSE NUCLEAR NONPROLIFERATION RESEARCH AND DEVELOPMENT............................................................................................................ 15
+2. ALTERNATIVE RADIOLOGICAL SOURCE TECHNOLOGIES......................................................................... 15
+a. Novel Non-Radioisotopic Technology for Industrial Radiography ........................................................... 16
+b. Novel Non-Radioisotopic Technology for Well Logging ........................................................................... 16
+c. Other......................................................................................................................................................... 17
+3. RADIATION DETECTION MATERIALS ..................................................................................................... 18
+a. Large Size, Low-Cost Scintillation Materials for Gamma-Ray Spectroscopy in Portal Monitors.............. 18
+b. Other......................................................................................................................................................... 18
+4. ADDITIVE MANUFACTURING TECHNIQUES FOR SPACE APPLICATIONS .................................................. 19
+a. Shielding of Electronic Circuits from Space Radiation via Additive Manufacturing................................. 19
+b. Space Qualified Printed Circuit Boards Produced Via Additive Manufacturing ....................................... 19
+c. Other......................................................................................................................................................... 19
+PROGRAM AREA OVERVIEW: OFFICE OF ELECTRICITY.......................................................... 21
+5. ADVANCED GRID TECHNOLOGIES......................................................................................................... 21
+a. Advanced Protective Relaying Technologies and Tools............................................................................ 22
+b. Methods for Predicting Performance of Power Electronics Technologies............................................... 22
+6. ADVANCED ENERGY STORAGE AND POWER CONVERSION SYSTEM FOR ENERGY EQUITY...................... 24
+a. Adaptable, Deployable, and Robust Power Conversion System for Energy Storage Used by Disadvantaged Off-grid Communities....................................................................................................... 25
+PROGRAM AREA OVERVIEW: OFFICE OF ENERGY EFFICIENCY AND RENEWABLE ENERGY .... 27
+7. EERE JOINT TOPIC: COMMUNITY-DRIVEN SOLUTIONS FOR A JUST AND EQUITABLE ENERGY TRANSITION ......................................................................................................................................... 28
+a. Bioenergy Technologies Office ................................................................................................................. 30
+b. Water Power Technologies Office ............................................................................................................ 31
+c. Geothermal Technologies Office .............................................................................................................. 31
+d. Solar Energy Technologies Office ............................................................................................................. 31
+e. Advanced Manufacturing Office............................................................................................................... 31
+f. Hydrogen & Fuel Cell Technologies Office................................................................................................ 31
+g. Wind Energy Technologies Office and Water Power Technologies Office – Technology Solutions for Advancing Ocean Co-Existence and Co-Use with Marine Energy and Communities............................... 32
+h. Vehicle Technologies – Energy Efficiency in Emerging Mobility Systems (EEMS): Developing and Applying Novel Mobility Solutions for Underserved and Disadvantaged Communities.......................... 33
+8. JOINT AMO/FECM TOPIC: DIVERSIFYING SUSTAINABLE SOURCES OF CRITICAL MINERALS AND MATERIALS .......................................................................................................................................... 34
+a. Production of CMM By-Products and Other Value-Add Minerals from Domestic Operations................ 36
+b. Advanced Mining Techniques that Increase Environmental and Material Stewardship ......................... 37
+9. JOINT TOPIC: CABLE CHARACTERIZATION & MODELING FOR FABRICATION .......................................... 39
+a. Enhanced Electrical Conductivity of Metals ............................................................................................. 43
+b. Enhanced Thermal Conductivity of Non-Metals....................................................................................... 44
+10. JOINT BTO/AMO TOPIC: THERMAL ENERGY STORAGE (TES).................................................................. 49
+a. Simplified Sizing and Selection Tool for TES ............................................................................................. 49
+b. Advanced Building Controls for Managing and Controlling TES............................................................... 49
+c. Integrated TES in HVAC&R Systems.......................................................................................................... 49
+11. JOINT TOPIC: WATER AND WIND TECHNOLOGIES AND ADVANCED MANUFACTURING OFFICES: DEVELOPMENT OF COST EFFECTIVE SUBSEA WET-MATEABLE CONNECTOR TECHNOLOGIES .................. 50
+a. Development of Manufacturable, Cost Effective Wet-Mateable Connector Technologies .................... 51
+12. BIOENERGY TECHNOLOGIES ................................................................................................................. 53
+a. Increasing the Algal Portion of Fuels and Products.................................................................................. 53
+13. HYDROGEN AND FUEL CELL TECHNOLOGIES ......................................................................................... 54
+a. TECHNOLOGY TRANSFER OPPORTUNITY: In-line Hydrogen Contaminant Detector ............................... 55
+b. Innovative, Durable PEM Fuel Cell Cathode Catalysts for Medium- and Heavy-Duty Truck Applications............................................................................................................................................... 56
+c. Flow Control and Metering Technologies for Heavy-Duty Hydrogen Fueling.......................................... 57
+14. VEHICLE TECHNOLOGIES....................................................................................................................... 58
+a. Electric Drive Vehicle Batteries................................................................................................................. 58
+b. Planar Magnetic Solutions for High Frequency Power Conversion in Medium Voltage (MV) Grid-Tied EV Charging Systems...................................................................................................................................... 59
+c. Innovative Green Composites for Future Vehicles................................................................................... 60
+15. SOLAR ENERGY TECHNOLOGIES............................................................................................................ 61
+a. Multiuse Integrated Photovoltaic Systems............................................................................................... 64
+b. Photovoltaic Recycling .............................................................................................................................. 66
+c. Next-Generation Power Electronics based on Silicon Carbide and/or Planar Magnetics........................ 66
+d. Technologies to Integrate Solar Generation with Energy Storage Systems and/or Electric Vehicle Charging .................................................................................................................................................... 67
+e. Concentrating Solar-Thermal Power System Construction, Manufacturing, and Reliability ................... 68
+f. Solar Hardware and Software Technologies: Affordability, Reliability, Performance, and Manufacturing .......................................................................................................................................... 69
+g. TECHNOLOGY TRANSFER OPPORTUNITY: Hierarchical Distributed Voltage Regulation in Networked Autonomous Grids.................................................................................................................................... 70
+h. TECHNOLOGY TRANSFER OPPORTUNITY: Novel Solar Collector Tracking Error Direction; “NIOHeliostat” .................................................................................................................................................. 71
+16. SOLAR ENERGY TECHNOLOGIES (STTR ONLY)........................................................................................ 73
+a. Transferring Novel Solar Technologies from Research Laboratories to the Market................................ 76
+b. Concentrating Solar Power Technologies for Industrial Decarbonization ............................................... 77
+c. Next Generation Solar Forecasting........................................................................................................... 78
+17. WIND ENERGY TECHNOLOGIES............................................................................................................. 80
+a. Offshore Wind Operations & Maintenance Topic .................................................................................... 81
+b. Innovative Solutions to Wind Transmission Interconnection and Wind Cybersecurity Challenges........ 84
+18. WATER POWER TECHNOLOGIES ........................................................................................................... 85
+a. Cost Saving Innovations for Water Conveyance Systems for Powering Non-Powered Dams................. 86
+b. Innovative Hydropower Technologies for Low Head (Less Than 30-ft.) .................................................. 88
+c. Innovations Accelerating Pumped Storage Hydropower Deployment .................................................... 89
+d. Co-Development of Marine Energy Technologies with End User Partners (CMET)................................. 91
+19. ADVANCED MANUFACTURING............................................................................................................. 94
+a. Decarbonizing Industrial Heat with Heat Pumps: Industrial Heat Pumps Research ................................ 95
+b. High Operating Temperature Storage (HOTS) for Manufacturing ........................................................... 96
+c. High Voltage (≥3.3 kV, ≥ 100 A) Half-Bridge SiC Powers Module for High Voltage EV Charging Stations, and DC-AC Inverters for Grid-Tied Renewables........................................................................................ 98
+d. Analog Semiconductor Devices for Sensing and Communications in Manufacturing ........................... 100
+e. Affordable Technologies for Controlled Environment Agriculture ........................................................ 102
+f. Other for Industrial Decarbonization...................................................................................................... 103
+20. BUILDING TECHNOLOGIES ...................................................................................................................108
+a. High Performance Insulated Cladding for Residential Field Applied Applications................................. 108
+b. Low-Cost Exterior Window Attachments for Disadvantaged Communities .......................................... 109
+c. Home Energy Score................................................................................................................................. 110
+PROGRAM OFFICE OVERVIEW – OFFICE OF FOSSIL ENERGY AND CARBON MANAGEMENT ...112
+21. INNOVATIVE ENERGY SYSTEMS ...........................................................................................................112
+a. Advanced Sensors and Instrumentation for Online Measurement of Hydrogen and Natural Gas Fuels for Gas Turbines...................................................................................................................................... 112
+b. Ammonia Reforming for Gas Turbine Applications................................................................................ 113
+c. Hydrogen Burners for Industrial Application.......................................................................................... 114
+d. Processing Methods to Manufacture High-Quality, Low-Cost Silicon Carbide (SiC) Fibers................... 115
+e. Improved Lifing Models for CMC............................................................................................................ 115
+f. Component Technology Advancement in Coal Waste and Biomass Gasification Systems.................... 115
+g. High Performance Hydrogen Electrodes in Solid Oxide Electrolysis Cells using Atomic Layer Deposition (ALD) Technique...................................................................................................................................... 117
+h. Other....................................................................................................................................................... 117
+22. CARBON CAPTURE AND REMOVAL ......................................................................................................119
+a. Novel Carbon Capture Technologies Employing Waste Heat in Regeneration of Materials Used in Direct Air Capture.............................................................................................................................................. 119
+b. Highly Efficient Materials and Processes to Support Disruptive Carbon Capture Technologies for Natural Gas Combined Cycle Power Plants ......................................................................................................... 120
+c. Novel Technologies for Mitigation of Process CO2 Emissions in the Cement/Steel Sector ................... 120
+d. Highly Efficient Carbon Capture Technologies for Production of Hydrogen from Natural Gas............. 120
+e. Quantification of Ancillary Environmental Benefits of Transformational Carbon Capture Technologies........................................................................................................................................... 121
+f. Other....................................................................................................................................................... 121
+23. CARBON MANAGEMENT .....................................................................................................................122
+a. Production of Carbon-Metal Composites Incorporating Coal-Derived Materials.................................. 123
+b. Conversion of CO2 into Plastics............................................................................................................... 124
+c. Technology Innovations for Efficient and Effective Passive Seismic Monitoring During Carbon Storage Site Characterization............................................................................................................................... 125
+d. Other....................................................................................................................................................... 125
+AREA OVERVIEW: OFFICE OF FUSION ENERGY SCIENCES....................................................127
+24. FUSION BLANKET AND TRITIUM FUEL CYCLE........................................................................................127
+a. Dual Cooled Lead Lithium Blanket.......................................................................................................... 128
+b. Helium Cooled Ceramic Breeders........................................................................................................... 128
+c. Tritium Fuel Cycle System Components................................................................................................. 128
+d. Other....................................................................................................................................................... 128
+25. SUPERCONDUCTING MAGNETS ...........................................................................................................129
+a. Superconducting Magnetic Technology ................................................................................................. 129
+b. Other....................................................................................................................................................... 129
+26. HIGH ENERGY DENSITY LABORATORY PLASMAS ..................................................................................130
+a. High Repetition Rates HED Diagnostics.................................................................................................. 130
+b. Other....................................................................................................................................................... 131
+27. LOW TEMPERATURE PLASMAS AND MICROELECTRONICS....................................................................131
+a. LTP Science and Engineering for Microelectronics and Nanotechnology .............................................. 131
+b. Other....................................................................................................................................................... 132
+28. TECHNOLOGY FOR FUSION PLASMA SCIENCES.....................................................................................132
+a. Actuators for Plasma Profile and Stability Control ................................................................................. 132
+b. Fiber Optic Bolometer Diagnostic........................................................................................................... 133
+c. Other....................................................................................................................................................... 133
+PROGRAM AREA OVERVIEW: OFFICE OF HIGH ENERGY PHYSICS........................................134
+29. ADVANCED CONCEPTS AND TECHNOLOGY FOR PARTICLE ACCELERATORS ...........................................135
+a. Non-Destructive Electron Beam Position Monitors ............................................................................... 135
+b. Structure Wakefield Acceleration (SWFA).............................................................................................. 135
+c. High Fidelity Modeling of Advanced Accelerator Structures.................................................................. 136
+d. Data Infrastructure for the Next Generation of Adaptive Real-Time Controls for Large-Scale Facilities................................................................................................................................................... 136
+e. Other....................................................................................................................................................... 136
+30. RADIO FREQUENCY ACCELERATOR TECHNOLOGY ................................................................................137
+a. Low-Cost Radio Frequency Power Sources for Accelerator Application................................................ 137
+b. Automation of SRF Cavity String Assembly............................................................................................. 138
+c. Auxiliary Components and Instrumentation for SRF Cavities................................................................. 138
+d. Other....................................................................................................................................................... 139
+31. LASER TECHNOLOGY R&D FOR ACCELERATORS....................................................................................139
+a. High Energy and Broadband Components for Fiber Lasers and Arrays ................................................. 140
+b. Additive Manufacturing of Laser Materials for High-Average-Power Ultrashort Pulse lasers............... 140
+c. Aperture-Scalable High Performance Diffraction Gratings .................................................................... 141
+d. Large Format Faraday Isolators for High Power Ultrafast Laser Systems.............................................. 141
+e. Other....................................................................................................................................................... 142
+32. HIGH FIELD SUPERCONDUCTING MAGNET TECHNOLOGY.....................................................................142
+a. High-Field Superconducting Wire and Cable Technologies for Magnets............................................... 142
+b. Magnet Quench Detection Systems....................................................................................................... 143
+c. Cryogenic Power Electronics for Distributed Powering and Quench Protection of HTS and Hybrid Magnets.................................................................................................................................................. 143
+d. Non-Invasive Imaging of Interfacial Bonding and Mechanical Failure Modes in High-Field Magnets... 143
+e. Other....................................................................................................................................................... 144
+33. HIGH ENERGY PHYSICS ELECTRONICS...................................................................................................145
+a. Radiation-Hard CMOS Sensors and Engineered Substrates for Detectors at High Energy Colliders..... 145
+b. High-Density Chip Interconnect Technology .......................................................................................... 146
+c. Radiation-Hard High-Bandwidth Data Transmission for Detectors at High Energy Colliders................ 146
+d. Electronics Systems for Ultra-Low-Temperature Experiments.............................................................. 147
+e. High-Channel Count Electronic Tools for Picosecond Timing................................................................. 147
+f. Other....................................................................................................................................................... 147
+34. HIGH ENERGY PHYSICS DETECTORS AND INSTRUMENTATION..............................................................148
+a. Low-Cost, High-Performance (V)UV/Visible/Near-IR Photon Detection................................................ 149
+b. Scintillating Detector Materials and Wavelength Shifters ..................................................................... 149
+c. High-Strength, High-Radiopurity Materials............................................................................................ 149
+d. Advanced Composite Materials.............................................................................................................. 150
+e. New Cryogenic Cooling Solutions for Low-Temperature Experiments.................................................. 150
+f. Other....................................................................................................................................................... 151
+35. QUANTUM INFORMATION SCIENCE (QIS) SUPPORTING TECHNOLOGIES ..............................................152
+a. Design and Fabrication of Microdisk Optical Resonators Supporting Very High-Q Optical Modes....... 153
+b. High Efficiency Photodetectors and Homodyne Detectors.................................................................... 153
+c. Other....................................................................................................................................................... 153
+PROGRAM AREA OVERVIEW – OFFICE OF NUCLEAR ENERGY ..............................................155
+36. ADVANCED TECHNOLOGIES FOR NUCLEAR ENERGY.............................................................................155
+a. Materials Protection Accounting and Control for Domestic Fuel Cycles ............................................... 155
+b. Advanced Modeling and Simulation....................................................................................................... 156
+c. Plant Modernization ............................................................................................................................... 157
+d. Component Development to Support Liquid Metal Reactors – Electromagnetic Pumps...................... 158
+e. Roller Bearings for High Temperature Sodium Applications.................................................................. 158
+f. Rapid, Inexpensive Molten Salt Property Measurement ....................................................................... 158
+g. National Reactor Innovation Center (NRIC)............................................................................................ 159
+h. Advanced Methods and Manufacturing Technologies (AMMT) Program ............................................. 160
+i. Nuclear Science User Facilities (NSUF) Program .................................................................................... 160
+j. Cybersecurity Technologies for Protection of Nuclear Critical Systems ................................................ 161
+k. Cost Analysis for Thermal Distribution and Storage Components......................................................... 161
+l. Envisioning Distributed Nuclear Generation and Reactor Siting Considerations for Integrated Energy Systems................................................................................................................................................... 162
+m. Small Modular Reactor Capabilities, Components, and Systems........................................................... 162
+n. Microreactor Applications, Unattended Operations, and Cost-Reduction Technologies...................... 163
+o. Advanced and Small Reactor Physical Security Cost Reduction............................................................. 163
+p. Advanced Technologies for the Fabrication, Characterization of Nuclear Reactor Fuel ....................... 164
+q. Advanced Sensors and Instrumentation (Crosscutting Research) ......................................................... 164
+r. Other....................................................................................................................................................... 165
+s. Develop or Improve Small Scale Mechanical Testing Techniques to Provide Size-independent Material Properties of Alloys in a Nuclear Power Plant Environment.................................................................. 165
+t. Thermally Driven Mechanical Heat Pumps for Thermal Storage and Industrial Applications............... 165
+37. ADVANCED TECHNOLOGIES FOR NUCLEAR WASTE ..............................................................................166
+a. Spent Fuel and Waste Science and Technology, Disposal Research ...................................................... 166
+b. Spent Fuel and Waste Science and Technology, Storage & Transportation R&D.................................. 167
+38. MATERIAL RECOVERY AND WASTE FORM DEVELOPMENT ...................................................................168
+a. Metal Organic Framework Manufacturing Technology ......................................................................... 168
+b. Phosphate-based Salt Waste Dechlorination and Immobilization Process Technology ........................ 169
+c. Krypton Separations Technology............................................................................................................ 169
